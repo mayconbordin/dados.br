@@ -1,0 +1,9 @@
+*~
+*.swp
+*.bak
+*.pyc
+build/
+dev/
+*.egg-info
+*.class
+.tox
