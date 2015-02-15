@@ -1,7 +1,6 @@
 # dados.br
 
-Python Wrapper para a API dados.gov.br.
-
+Python Wrapper para a API [dados.gov.br](http://dados.gov.br/).
 
 ## Exemplos de Uso
 
