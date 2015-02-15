@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(name="dados.br",
       version="0.1",
-      description="Python wrapper for dados.gov.br API",
+      description="Python wrapper para a API dados.gov.br.",
       license="MIT",
       install_requires=[],
       author="Maycon Bordin",
